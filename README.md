@@ -49,6 +49,5 @@ Citation & Acknowledgments
 
 If you use or modify this code, please cite:
 
-Learning of Spatial–Temporal EEG Representation in the Stiefel Manifold Using Hilbert Transformation
-Author(s): [Your Name(s)], in collaboration with Vida Jaberi
+Learning of Spatial–Temporal EEG Representation in the Stiefel Manifold Using Hilbert Transformation, in collaboration with Vida Jaberi
 December 30, 2024
